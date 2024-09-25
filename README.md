@@ -1,7 +1,7 @@
 # Parking Automation System
 
 A automated parking system built using :
-1. Flask as backend.
+1. Django as backend.
 2. Mysql as database.
 3. Flask-SQLAlchemy as an ORM(Object Relational Mapper).
 4. HTML, CSS, BOOSTSTRAP as frontend.
